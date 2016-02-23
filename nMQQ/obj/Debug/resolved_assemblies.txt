@@ -1,0 +1,13 @@
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/nMQQ.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/System.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/System.Xml.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/Mono.Android.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/Java.Interop.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/System.Core.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/Xamarin.Insights.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/M2Mqtt.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/mscorlib.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/System.Net.Http.dll
+/Users/haluk/Projects/nMQQ/nMQQ/obj/Debug/android/assets/System.ComponentModel.Composition.dll

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="nMQQ/nMQQ.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="nMQQ/MainActivity.cs">
+    <Files>
+      <File FileName="nMQQ/MainActivity.cs" Line="42" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.nMQQ PreferredExecutionTarget="Android.MJNRDQ89QSWOGQUS" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/haluk/Projects/nMQQ/nMQQ/MainActivity.cs" line="200" column="11" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
